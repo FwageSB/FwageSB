@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FwageSB
+- 👀 I’m interested in Coding , Minecraft
+- 🌱 I’m currently learning nextJs, Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
